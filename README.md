@@ -1,6 +1,6 @@
 # Matcha 🚀 - Never miss the next unicorn.
 
-See a quick demo of the [insights you can get in our platform] (https://vc-crm-dashboard.vercel.app/)
+See a quick demo of the insights you can get in our platform: https://vc-crm-dashboard.vercel.app/
 
 ## The Problem We Tackled
 
