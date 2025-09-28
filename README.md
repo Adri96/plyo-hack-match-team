@@ -49,12 +49,12 @@ A possible funnel is the following one:
    Pattern recognition from sector specialists
    Inbound from accelerators/previous investments
    Cold outreach (sub-1% conversion)
-2. Initial Screen (Partner-level, 30 seconds)
+2. Initial Screen (quick, a few minutes at most)
    Market size and timing
    Team pedigree and founder-market fit
    Traction metrics vs. stage expectations
    Investment thesis alignment
-3. Deep Dive (Junior associate research, 2-3 weeks)
+3. Deep Dive (2-3 weeks)
    Competitive landscape analysis
    Customer reference calls
    Financial model stress-testing
