@@ -1,5 +1,7 @@
 # Matcha 🚀 - Never miss the next unicorn.
 
+See a quick demo of the [insights you can get in our platform] (https://vc-crm-dashboard.vercel.app/)
+
 ## The Problem We Tackled
 
 Venture capitalists face a critical inefficiency that costs them both time and opportunities: cognitive overload from scattered information across fragmented channels.
