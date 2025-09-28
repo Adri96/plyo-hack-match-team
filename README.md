@@ -30,26 +30,15 @@ Communication Channels → Data Ingestion → Matcha AI Processing → Smart Inb
 
 _Multi-Channel Data Ingestion_
 
--   Continuously monitors communication platforms (WhatsApp, LinkedIn, Slack, email)
--   Extracts startup mentions, pitch decks, and investment inquiries
--   Enriches data with business intelligence from Crunchbase, AngelList, Product Hunt
--   Matcha AI Processing
+We continuously monitor the communication platforms you use (Whatsapp, Slack, LinkedIn, email) to extract startup mentions, highly relevant investment inquiries and we enrich that data with business intelligence from Crunchbase, AngelList, Product Hunt and our own data base, so Matcha AI can give you actionable notifications and reports of your comms.
 
 _Applies VC-style screening criteria (market size, team pedigree, traction metrics)_
 
--   Scores opportunities based on 10x ROI potential
--   Detects red flags (inconsistencies, market risks, team issues)
--   Identifies competitive landscapes and market positioning
--   Smart Inbox Delivery
-
-_Presents only high-priority opportunities to VCs_
-
--   Provides context-rich summaries with key decision factors
--   Enables rapid 30-second partner-level screening
+We score opportunities based on 10x ROI potential or more. We detect the red flags in the different stages of the funnel (inconsistencies, market risks, team issues...) and green flags based on the profile of the founders, what metrics and objectives they tell us, how they communicate and the overall market landscape and positioning. We deliver these highly relevant notifications right into your inbox!
 
 ## Framework
 
-VCs' main task is to distinguish which of the startup leads they receive are good candidates for an ROI > x10. We want to model this as a funnel, where at every step, some candidates are discarded.
+VCs' main task is to distinguish which of the startup leads they receive are good candidates for a ROI > x10. We want to model this as a funnel, where at every step, some candidates are discarded.
 
 A possible funnel is the following one:
 
@@ -73,9 +62,5 @@ A possible funnel is the following one:
    10x return potential demonstration
    Exit strategy clarity
 5. Final Due Diligence (Legal, technical, financial)
-   We also want to focus on leveraging the data that’s scattered in different channels for VCs: WhatsApp, LinkedIn Messages, emails, Slack… Combined with more general information about business (AngelList, Crunchbase, Product Hunt…)
-   Tools involved:
-   CRM:
-   https://zapier.com/mcp/affinity
-   Instant messaging: Slack, Discord, WhatsApp, Telegram
-   Business info: LinkedIn, AngelList, Crunchbase (for startup scoring)
+
+We want to enable VCs to understand when they need to prioritize a lead (or skip devouting more hours on one...) so they can move quickly in their own process when other VCs haven't even heard the starting shot.
