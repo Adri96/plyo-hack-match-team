@@ -1,6 +1,4 @@
-# Matcha 🚀
-
-##Never miss the next unicorn.
+# Matcha 🚀 - Never miss the next unicorn.
 
 ## The Problem We Tackled
 
@@ -17,12 +15,16 @@ _The Core Challenge:_
 _User Story:_ As an investor, John VC wants to simplify the management of his investment portfolio by reducing the time spent on monitoring multiple channels, minimizing cognitive load from constant context switching, and streamlining the inflow of new investment opportunities—so he can focus on making smarter, faster investment decisions.
 Our Solution: How AI Agent Matcha Works
 Matcha is an AI-powered deal flow management platform that aggregates startup signals from multiple channels into one intelligent inbox.
-System Architecture
-[Communication Channels] → [Data Ingestion] → [Matcha AI Processing] → [Smart Inbox] → [VC Decision]
-│ │ │ │
-WhatsApp API Integrations AI Scoring Engine Prioritized Deals
-LinkedIn Data Normalization Risk Assessment Automated Insights
-Slack/Email Schema Mapping Opportunity Scoring Action Recommendations
+
+_System Architecture_
+
+```
+Communication Channels → Data Ingestion → Matcha AI Processing → Smart Inbox → VC Decision
+        │                      │                   │                 │
+    WhatsApp              API Integrations    AI Scoring Engine   Prioritized Deals
+    LinkedIn              Data Normalization   Risk Assessment    Automated Insights
+    Slack/Email           Schema Mapping      Opportunity Scoring  Action Recommendations
+```
 
 ## How It Works
 
