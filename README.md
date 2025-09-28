@@ -16,7 +16,7 @@ _User Story:_ As an investor, John VC wants to simplify the management of his in
 Our Solution: How AI Agent Matcha Works
 Matcha is an AI-powered deal flow management platform that aggregates startup signals from multiple channels into one intelligent inbox.
 
-_System Architecture_
+### System Architecture
 
 ```
 Communication Channels → Data Ingestion → Matcha AI Processing → Smart Inbox → VC Decision
